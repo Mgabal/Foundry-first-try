@@ -17,7 +17,7 @@ FundMe is a smart contract where:
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech used
 
 - Solidity ^0.8.x
 - Foundry (Forge, Cast, Anvil)
@@ -84,12 +84,6 @@ make deploy-sepolia
 forge test
 ```
 
-### ⛽ Gas Snapshot
-
-```bash
-forge snapshot
-```
-
 ---
 
 ## 🧪 Testing
@@ -111,14 +105,6 @@ The project includes unit tests covering:
 - Secure owner-only withdrawal
 - Gas-optimized withdraw pattern
 - Etherscan verification support
-
----
-
-## 🌍 Deployment
-
-Network: Sepolia  
-Contract Address: `0xYOUR_DEPLOYED_ADDRESS`  
-Etherscan: https://sepolia.etherscan.io/address/0xYOUR_DEPLOYED_ADDRESS
 
 ---
 
